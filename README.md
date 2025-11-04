@@ -26,27 +26,6 @@ This project implements a CNN-based classification model to detect and classify 
 ## 📁 Dataset Structure
 
 
-brain_tumor_project/
-│
-├── dataset/
-│   ├── Training/
-│   │   ├── glioma/          # Glioma tumor images
-│   │   ├── meningioma/      # Meningioma tumor images
-│   │   ├── notumor/         # No tumor images
-│   │   └── pituitary/       # Pituitary tumor images
-│   │
-│   └── Testing/
-│       ├── glioma/
-│       ├── meningioma/
-│       ├── notumor/
-│       └── pituitary/
-│
-├── model/
-│   └── brain_tumor_classifier.h5  # Trained model
-│
-├── test.ipynb                      # Jupyter notebook
-├── requirements.txt                # Project dependencies
-└── README.md                       # This file
 
 
 ### Dataset Statistics
